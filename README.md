@@ -1,4 +1,4 @@
-# python-disruptor-eg
+# python-disruptor-example
 
 High-performance concurrent processing examples using the [py-disruptor](https://github.com/pulsepointinc/py-disruptor) library with **Polars**, **fault tolerance**, and **production-ready patterns**.
 
