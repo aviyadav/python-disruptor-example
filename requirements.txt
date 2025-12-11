@@ -1,0 +1,4 @@
+psutil==7.1.3
+polars
+pyarrow
+py-disruptor @ git+https://github.com/pulsepointinc/py-disruptor.git@003420d64c3b473db727fcc33b0726c6998508bf
